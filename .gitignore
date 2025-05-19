@@ -1,0 +1,26 @@
+# Flutter & Dart
+**/android/
+**/ios/
+**/build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Backend (Node.js)
+**/node_modules/
+.env
+
+# Backend (Python)
+**/__pycache__/
+*.pyc
+venv/
+.env
+
+# General
+.DS_Store
+*.log
+.idea/
+.vscode/
